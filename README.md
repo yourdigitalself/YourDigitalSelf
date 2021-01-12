@@ -41,12 +41,6 @@ The services that are currently supported by the app are (you can select which o
 - Phone location services
 
 
-## Meta
-
-Valia Kalokyri – vkalokyri@gmail.com
-
-[https://github.com/vkalokyri/]
-
 ## License
 
 This application is released under GNU GPLv3 (see [LICENSE](LICENSE)).
